@@ -1,6 +1,11 @@
 #ifndef _COLOR_H_
 #define _COLOR_H_
 
+/* 
+Author: c0rnf13ld <3
+2022/09/11
+*/
+
 #define 			RESET 			"\033[0;0m"
 #define				BLK				"\033[0;30m"
 #define				RED				"\033[0;31m"
