@@ -17,4 +17,4 @@ Tomorrow: 12/09/2022
 ```
 
 ## About the script
-The format of the date is: DD/MM/YYYYYY
+The format of the date is: DD/MM/YYYY
