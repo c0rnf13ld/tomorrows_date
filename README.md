@@ -12,4 +12,9 @@ cc -Wall -c timeutils.c -o builds/timeutils.o
 cc -Wall -o builds/main builds/datetime.o builds/main.o builds/timeutils.o
 
 user@machine:~$ builds/./main
+Today: 11/09/2022
+Tomorrow: 12/09/2022
 ```
+
+## About the script
+The format of the date is: DD/MM/YYYYYY
